@@ -3,6 +3,9 @@ Easy Way to update your installed tools on os
 
 > only support windows and download from GitHub only
 
+### To Install
+`pip install easy-up`
+
 ### Command
 `github`
 
